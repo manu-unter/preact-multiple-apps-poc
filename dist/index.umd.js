@@ -1,0 +1,2 @@
+!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("preact")):"function"==typeof define&&define.amd?define(["preact"],t):e.preactMultipleAppsPoc=t(e.preact)}(this,function(e){return function(t){function o(){t.apply(this,arguments)}return t&&(o.__proto__=t),(o.prototype=Object.create(t&&t.prototype)).constructor=o,o.prototype.render=function(t){return e.h("div",null,e.h("h1",{style:{color:t.color}},"Hello, World!"))},o}(e.Component)});
+//# sourceMappingURL=index.umd.js.map
