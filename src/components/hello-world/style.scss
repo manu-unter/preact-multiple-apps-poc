@@ -6,3 +6,11 @@ html, body {
 h1 {
 	text-align: center;
 }
+
+.overlay {
+	position: fixed;
+	background: lightgray;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+}
