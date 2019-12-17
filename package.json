@@ -18,23 +18,22 @@
   "author": "Zouhir <zouhir@zouhir.org>",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^4.5.0",
+    "eslint": "^6.7.2",
     "identity-obj-proxy": "^3.0.0",
-    "if-env": "^1.0.0",
-    "jest": "^21.2.1",
-    "microbundle": "^0.6.0",
-    "node-sass": "^4.5.3",
-    "preact-cli": "^2.0.2",
-    "preact-render-to-string": "^3.7.0",
+    "if-env": "^1.0.4",
+    "jest": "^24.9.0",
+    "microbundle": "^0.11.0",
+    "node-sass": "^4.13.0",
+    "preact-cli": "^2.2.1",
+    "preact-render-to-string": "^5.1.2",
     "preact-widget-scripts": "^0.6.0",
-    "sass-loader": "^6.0.6"
+    "sass-loader": "^8.0.0"
   },
   "dependencies": {
-    "preact": "^8.5.2",
-    "preact-compat": "^3.17.0",
-    "preact-habitat": "^3.1.0",
-    "preact-render-to-string": "^4.1.0",
-    "preact-router": "^2.5.7"
+    "preact": "^10.1.1",
+    "preact-habitat": "^3.3.0",
+    "preact-render-to-string": "^5.1.2",
+    "preact-router": "^3.1.0"
   },
   "jest": {
     "verbose": true,
