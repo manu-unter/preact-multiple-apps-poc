@@ -27,7 +27,7 @@
     "preact-cli": "^2.2.1",
     "preact-render-to-string": "^5.1.2",
     "preact-widget-scripts": "^0.6.0",
-    "sass-loader": "^8.0.0"
+    "sass-loader": "^7.3.1"
   },
   "dependencies": {
     "preact": "^10.1.1",
